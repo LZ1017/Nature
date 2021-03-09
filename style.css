@@ -11,6 +11,14 @@ body{
 	margin-bottom: 500px;
 }
 
+p{
+	top:50px;
+	position:relative;
+	font-family:"lemongrass caps", sans-serif;
+	font-size:14px;
+	border:;
+}
+
 img{
 	padding: 0;
 	display:block;
@@ -29,7 +37,6 @@ img{
 }
 
 .container-text {
-
 	background-image:	url("forest.jpeg");
 	-webkit-text-fill-color: transparent;
 	-webkit-background-clip: text;
